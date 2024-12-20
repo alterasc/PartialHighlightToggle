@@ -1,0 +1,12 @@
+﻿{
+  "Id": "PartialHighlightToggle",
+  "DisplayName": "Partial Highlight Toggle",
+  "Author": "AlterAsc",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [ "ModMenu-1.3.2" ],
+  "AssemblyName": "PartialHighlightToggle.dll",
+  "EntryMethod": "PartialHighlightToggle.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
